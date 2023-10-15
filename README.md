@@ -1,5 +1,4 @@
 # Aprimorando Calculadora de IMC com Flutter
-
 Calculadora de IMC com leitura de dados e exibição dos resultados no formato de lista.
 
 ### Checklist do Desafio
